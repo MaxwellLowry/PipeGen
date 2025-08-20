@@ -6,6 +6,13 @@ PipeGen is a parametric pipe generator I developed using PicoGK. I first discove
 
 This project is a basic exploration of computational design, demonstrating how complex geometries can be generated without standard CAD tools.
 
+Running the Code
+
+To run this project yourself, you will need:
+PicoGK – the core geometry kernel for generating the pipe models.
+ShapeKernel – included with PicoGK for voxel and lattice operations.
+Clone the repository, add PicoGK and ShapeKernel references to your project in Visual Studio, and then build and run Program.cs.
+
 Resources
 
 This project relied on several resources:
